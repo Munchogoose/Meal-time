@@ -1,5 +1,5 @@
 # Meal-time
-This was a mini project set by Harvard Univeristy Cs50 Introduction to Programing with Python course.
+This was a mini project set by Harvard Univeristy Cs50 Introduction to Programming with Python course I am currently undergoing to build and strengthen my Python programming fundamental skills.
 
 Suppose that you’re in a country where it’s customary to eat breakfast between 7:00 and 8:00, lunch between 12:00 and 13:00, and dinner between 18:00 and 19:00. This program tells the user what to eat base on their time.
 
